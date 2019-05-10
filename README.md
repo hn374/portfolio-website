@@ -5,5 +5,6 @@ My portfolio website, still a work in progress. Here is the link to the live web
 https://hoangnguyendev.herokuapp.com/
 
 TODO:
--[] Fix styling on smaller screens
--[] Provide links for all buttons
+
+- [] Fix styling on smaller screens
+- [] Provide links for all buttons
