@@ -2493,6 +2493,11 @@
 			width: 100%;
 		}
 
+		.pictures {
+			max-width: 300px;
+			max-height: 300px;
+		}
+
 			.image.fit img {
 				width: 100%;
 			}
